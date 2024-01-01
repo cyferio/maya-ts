@@ -1,0 +1,13 @@
+{
+  "name": "maya",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "author": "ckZero",
+  "license": "MIT"
+}
